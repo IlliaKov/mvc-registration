@@ -6,4 +6,4 @@ CREATE TABLE `users` (
 `email` varchar(100) NOT NULL,
 `phone` varchar(100) NOT NULL,
 `password` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;# mvc-reg-recman
